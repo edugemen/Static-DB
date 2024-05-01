@@ -80,7 +80,7 @@
                 "resultado": ["0", "0"],
                 "slug": ["vam", "3ste"],
                 "lugar": "Infanta Cristina 6",
-                "fecha": "Sábado, 11:40 AM"
+                "fecha": "Domingo, 11:40 AM"
             },
             {
                 "id": 9,
@@ -89,7 +89,7 @@
                 "resultado": ["0", "0"],
                 "slug": ["3ste", "albolote"],
                 "lugar": "Los Bajos 10",
-                "fecha": "Sábado, 13:40 AM"
+                "fecha": "Domingo, 13:40 AM"
             }
         ]
     }
