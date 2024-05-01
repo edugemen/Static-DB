@@ -6,6 +6,7 @@
                 "e1": "Pallavolo Voley",
                 "e2": "Radiokable Albolote Senior",
                 "resultado": ["0", "0"],
+                "slug": ["pallavolo","albolote"],
                 "lugar": "Los Bajos 10",
                 "fecha": "Sábado, 9:40 AM"
             },
@@ -14,6 +15,7 @@
                 "e1": "CV Alhaurin de la Torre",
                 "e2": "Radiokable Albolote Senior",
                 "resultado": ["0", "0"],
+                "slug": ["alhaurin","albolote"],
                 "lugar": "Infanta Cristina 6",
                 "fecha": "Sábado, 11:40 AM"
             },
@@ -22,6 +24,7 @@
                 "e1": "Los Pinguinos de VAMagascar",
                 "e2": "Pallavolo Voley",
                 "resultado": ["0", "0"],
+                "slug": ["vam","pallavolo"],
                 "lugar": "Infanta Cristina 6",
                 "fecha": "Sábado, 15:40 PM"
             },
@@ -30,6 +33,7 @@
                 "e1": "CV Alhaurin de la Torre",
                 "e2": "3ste Voley B",
                 "resultado": ["0", "0"],
+                "slug": ["alhaurin", "3ste"],
                 "lugar": "Los Bajos 10",
                 "fecha": "Sábado, 15:40 PM"
             },
@@ -38,6 +42,7 @@
                 "e1": "Los Pinguinos de VAMagascar",
                 "e2": "Radiokable Albolote Senior",
                 "resultado": ["0", "0"],
+                "slug": ["vam", "albolote"],
                 "lugar": "Los Bajos 10",
                 "fecha": "Sábado, 18:20 PM"
             },
@@ -46,6 +51,7 @@
                 "e1": "CV Alhaurin de la Torre",
                 "e2": "Los Pinguinos de VAMagascar",
                 "resultado": ["0", "0"],
+                "slug": ["alhaurin", "vam"],
                 "lugar": "Infanta Cristina 6",
                 "fecha": "Sábado, 19:40 PM"
             },
@@ -54,6 +60,7 @@
                 "e1": "Pallavolo Voley",
                 "e2": "3ste Voley B",
                 "resultado": ["0", "0"],
+                "slug": ["pallavolo", "3ste"],
                 "lugar": "Infanta Cristina 6",
                 "fecha": "Sábado, 20:20 PM"
             },
@@ -62,6 +69,7 @@
                 "e1": "CV Alhaurin de la Torre",
                 "e2": "Pallavolo Voley",
                 "resultado": ["0", "0"],
+                "slug": ["alhaurin", "pallavolo"],
                 "lugar": "Los Bajos 10",
                 "fecha": "Domingo, 9:40 AM"
             },
@@ -70,6 +78,7 @@
                 "e1": "Los Pinguinos de VAMagascar",
                 "e2": "3ste Voley B",
                 "resultado": ["0", "0"],
+                "slug": ["vam", "3ste"],
                 "lugar": "Infanta Cristina 6",
                 "fecha": "Sábado, 11:40 AM"
             },
@@ -78,6 +87,7 @@
                 "e1": "3ste Voley B",
                 "e2": "Radiokable Albolote Senior",
                 "resultado": ["0", "0"],
+                "slug": ["3ste", "albolote"],
                 "lugar": "Los Bajos 10",
                 "fecha": "Sábado, 13:40 AM"
             }
